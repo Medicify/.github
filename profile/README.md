@@ -1,6 +1,8 @@
 
 # Bangkit Capstone Project
 
+![team members](https://raw.githubusercontent.com/Medicify/.github/main/Go%20to%20market.jpg)
+
 Capstone project for Bangkit 2023
 
 #### Team ID: C23-PS135
@@ -11,7 +13,7 @@ Capstone project for Bangkit 2023
 
 #### Members
 
-![team members](https://raw.githubusercontent.com/Medicify/.github/main/Go%20to%20market.jpg)
+
 
 
 | Name | Student ID     | Role   |LinkedIn   |Github   |

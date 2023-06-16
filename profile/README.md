@@ -1,10 +1,16 @@
-## Bangkit Capstone Project
+
+# Bangkit Capstone Project
+
+Capstone project for Bangkit 2023
+
+#### Team ID: C23-PS135
+#### Project Name: Medicify
+
+![Logo](https://raw.githubusercontent.com/Medicify/.github/main/logo_160px.png)
 
 
-### Team: C23-PS135
-### Project Name: Medicify
+#### Members
 
-### Member
 
 | Name | Student ID     | Role   |
 | :-------- | :------- | :------------ |
@@ -14,13 +20,18 @@
 | `Bhara Ayong Purna Mustika`   | `C150DKX3810` | `Cloud Computing` |
 | `Saddam Satria Ardhi`   | `C150DKX3899` | `Cloud Computing` |
 | `Abdurrahman`   | `A172DKX4010` | `Mobile Development` |
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<!-- ### Repositories
+
+#### Cloud Computing
+##### [Drug Service API](https://github.com/Medicify/drug-service)
+##### [Recommendation Service API]( https://github.com/Medicify/recommendation-service)
+##### [OCR Service API](https://github.com/Medicify/ocr-service)
+##### [Scraping Service](https://github.com/Medicify/scraping-service)
+#### Machine Learning
+##### [Dataset Cleaning](https://github.com/Medicify/dataset-cleaning)
+#### Mobile Developer
+##### [Android Development](https://github.com/Medicify/md-medicify) -->
+
+
